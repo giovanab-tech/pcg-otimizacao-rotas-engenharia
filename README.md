@@ -34,4 +34,3 @@ O algoritmo opera através de:
 
 * `/src` → Código-fonte
 * `/testes` → Matrizes e cenários de teste
-* `Artigo_PCG_Final.pdf` → Relatório científico
