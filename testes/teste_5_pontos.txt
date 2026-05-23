@@ -1,0 +1,8 @@
+Caso 2
+            num_pontos <- 5
+            // Cenário 2: Matriz 5x5 simulando dispersão geográfica moderada
+            distancias[1,1]<-0.0;  distancias[1,2]<-15.0; distancias[1,3]<-8.0;  distancias[1,4]<-22.0; distancias[1,5]<-11.0;
+            distancias[2,1]<-15.0; distancias[2,2]<-0.0;  distancias[2,3]<-18.0; distancias[2,4]<-9.0;  distancias[2,5]<-20.0;
+            distancias[3,1]<-8.0;  distancias[3,2]<-18.0; distancias[3,3]<-0.0;  distancias[3,4]<-30.0; distancias[3,5]<-14.0;
+            distancias[4,1]<-22.0; distancias[4,2]<-9.0;  distancias[4,3]<-30.0; distancias[4,4]<-0.0;  distancias[4,5]<-10.0;
+            distancias[5,1]<-11.0; distancias[5,2]<-20.0; distancias[5,3]<-14.0; distancias[5,4]<-10.0; distancias[5,5]<-0.0;
